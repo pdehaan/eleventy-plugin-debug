@@ -1,0 +1,26 @@
+{
+  "name": "eleventy-plugin-debug",
+  "description": "A collection of debugging filters for Eleventy projects.",
+  "version": "1.0.0",
+  "author": "Peter deHaan",
+  "bugs": {
+    "url": "https://github.com/pdehaan/eleventy-plugin-debug/issues"
+  },
+  "homepage": "https://github.com/pdehaan/eleventy-plugin-debug#readme",
+  "keywords": [
+    "eleventy-plugin",
+    "filter",
+    "inspect",
+    "json-stringify",
+    "object-keys"
+  ],
+  "license": "MPL-2.0",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/eleventy-plugin-debug.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
